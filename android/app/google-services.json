@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "788818320442",
+    "project_id": "tharwat-e-commerce",
+    "storage_bucket": "tharwat-e-commerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788818320442:android:fd87fad8e256a30a02e903",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788818320442-m9i54hjs4hv6rfl6b372j3rld0j83pnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXGUd_kvWcBymqVqFEJ40LbzEU1QX9Ya8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788818320442-m9i54hjs4hv6rfl6b372j3rld0j83pnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
